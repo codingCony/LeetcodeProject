@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Amazon.iml" filepath="$PROJECT_DIR$/Amazon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/alexa/alexa.iml" filepath="$PROJECT_DIR$/alexa/alexa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab126/lab126.iml" filepath="$PROJECT_DIR$/lab126/lab126.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcode/leetcode.iml" filepath="$PROJECT_DIR$/leetcode/leetcode.iml" />
+    </modules>
+  </component>
+</project>

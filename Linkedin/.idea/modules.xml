@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AIRBNB/AIRBNB.iml" filepath="$PROJECT_DIR$/AIRBNB/AIRBNB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/APPLE/APPLE.iml" filepath="$PROJECT_DIR$/APPLE/APPLE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LAB126_AMAZON/LAB126_AMAZON.iml" filepath="$PROJECT_DIR$/LAB126_AMAZON/LAB126_AMAZON.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linkedin/linkedin.iml" filepath="$PROJECT_DIR$/linkedin/linkedin.iml" />
+    </modules>
+  </component>
+</project>
